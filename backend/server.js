@@ -12,6 +12,7 @@ const adminRoutes = require('./routes/admin');
 const uploadRoutes = require('./routes/upload');
 
 const app = express();
+app.set('trust proxy', 1); // Trust Render proxy for secure cookies and OAuth
 
 // ── Connect to MongoDB ──────────────────────────────────────
 connectDB();
