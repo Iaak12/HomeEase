@@ -20,9 +20,10 @@ const UserDashboard = () => {
   const [dashData, setDashData] = useState(null);
   const [bookings, setBookings] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [profileForm, setProfileForm] = useState({ name: '', phone: '', address: '' });
+  const [profileForm, setProfileForm] = useState({ name: '', phone: '', address: '', avatar: '' });
   const [profileMsg, setProfileMsg] = useState('');
   const [savingProfile, setSavingProfile] = useState(false);
+  const [uploadingAvatar, setUploadingAvatar] = useState(false);
 
   useEffect(() => {
     fetchDashboard();
@@ -34,6 +35,7 @@ const UserDashboard = () => {
         name: user.name || '',
         phone: user.phone || '',
         address: user.address || '',
+        avatar: user.avatar || '',
       });
     }
   }, [user]);
@@ -85,6 +87,36 @@ const UserDashboard = () => {
       setProfileMsg('❌ Update failed.');
     } finally {
       setSavingProfile(false);
+    }
+  };
+
+  const handleAvatarChange = async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+
+    setUploadingAvatar(true);
+    setProfileMsg('');
+
+    const formData = new FormData();
+    formData.append('image', file);
+
+    try {
+      const res = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/upload`, {
+        method: 'POST',
+        body: formData,
+        credentials: 'include',
+      });
+      const data = await res.json();
+      if (data.success) {
+        setProfileForm(prev => ({ ...prev, avatar: data.url }));
+        setProfileMsg('✅ Avatar uploaded. Click Save to keep changes.');
+      } else {
+        setProfileMsg('❌ Upload failed: ' + data.message);
+      }
+    } catch {
+      setProfileMsg('❌ Upload failed.');
+    } finally {
+      setUploadingAvatar(false);
     }
   };
 
@@ -243,6 +275,26 @@ const UserDashboard = () => {
 
               <div style={styles.profileCard}>
                 <form onSubmit={handleProfileSave}>
+                  <div style={styles.formGroup}>
+                    <label style={styles.formLabel}>Profile Picture</label>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                      {profileForm.avatar ? (
+                        <img src={profileForm.avatar} alt="Avatar Preview" style={{ width: 64, height: 64, borderRadius: '50%', objectFit: 'cover', border: '2px solid rgba(139,92,246,0.4)' }} />
+                      ) : (
+                        <div style={{ width: 64, height: 64, borderRadius: '50%', background: 'rgba(255,255,255,0.05)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.5rem', border: '2px dashed rgba(255,255,255,0.2)' }}>
+                          📷
+                        </div>
+                      )}
+                      <div>
+                        <label style={{ ...styles.saveBtn, padding: '0.5rem 1rem', fontSize: '0.8rem', cursor: 'pointer', background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', color: '#f1f5f9', boxShadow: 'none' }}>
+                          {uploadingAvatar ? '⏳ Uploading...' : 'Upload Image'}
+                          <input type="file" accept="image/*" onChange={handleAvatarChange} style={{ display: 'none' }} disabled={uploadingAvatar} />
+                        </label>
+                        <div style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.75rem', marginTop: 6 }}>Max size 5MB (JPG, PNG, WEBP)</div>
+                      </div>
+                    </div>
+                  </div>
+
                   <div style={styles.formGrid}>
                     {[
                       { label: 'Full Name', key: 'name', icon: '👤', type: 'text', placeholder: 'Your full name' },

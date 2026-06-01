@@ -9,6 +9,7 @@ require('./config/passport');
 const authRoutes = require('./routes/auth');
 const userRoutes = require('./routes/user');
 const adminRoutes = require('./routes/admin');
+const uploadRoutes = require('./routes/upload');
 
 const app = express();
 
@@ -29,6 +30,7 @@ app.use(passport.initialize());
 app.use('/api/auth', authRoutes);
 app.use('/api/user', userRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api/upload', uploadRoutes);
 
 // ── Health check ────────────────────────────────────────────
 app.get('/api/health', (req, res) => {
