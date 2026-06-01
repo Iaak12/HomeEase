@@ -1,0 +1,942 @@
+{
+  "services": {
+    "after-party-express-clean": {
+      "slug": "after-party-express-clean",
+      "title": "After-Party Express Clean",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "balcony": {
+      "slug": "balcony",
+      "title": "Balcony Cleaning",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "bathroom-surface-cleaning": {
+      "slug": "bathroom-surface-cleaning",
+      "title": "Bathroom Cleaning",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "car-surface-cleaning": {
+      "slug": "car-surface-cleaning",
+      "title": "Car Surface Cleaning",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "complete-wardrobe-cleaning": {
+      "slug": "complete-wardrobe-cleaning",
+      "title": "Complete Wardrobe Cleaning",
+      "subtitle": "Clean wardrobes. Perfect wardrobes for everyday use.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "dusting": {
+      "slug": "dusting",
+      "title": "Dusting & Wiping",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "fan-cleaning": {
+      "slug": "fan-cleaning",
+      "title": "Fan Cleaning",
+      "subtitle": "Done right. Handled safely. Cleaned thoroughly.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "fridge-surface-cleaning": {
+      "slug": "fridge-surface-cleaning",
+      "title": "Fridge Cleaning",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "hourly-30-minutes-1-hour-90-minutes": {
+      "slug": "hourly-30-minutes-1-hour-90-minutes",
+      "title": "Hourly bookings",
+      "subtitle": "Book for up to 3 hours, pick your time.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "ironing-folding": {
+      "slug": "ironing-folding",
+      "title": "Ironing & Folding",
+      "subtitle": "Wrinkles? Not on our watch.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "kitchen-cabinet-cleaning": {
+      "slug": "kitchen-cabinet-cleaning",
+      "title": "Kitchen Cabinet Cleaning",
+      "subtitle": "Cabinet refresh. Your kitchen cabinets, thoroughly cleaned.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "kitchen-cleaning": {
+      "slug": "kitchen-cleaning",
+      "title": "Kitchen Cleaning",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "kitchen-prep": {
+      "slug": "kitchen-prep",
+      "title": "Kitchen Prep",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "laundry": {
+      "slug": "laundry",
+      "title": "Laundry",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "packing-unpacking": {
+      "slug": "packing-unpacking",
+      "title": "Packing or Unpacking",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "plant-care": {
+      "slug": "plant-care",
+      "title": "Plant Care",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "pre-party-express-clean": {
+      "slug": "pre-party-express-clean",
+      "title": "Pre-Party Express Clean",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "sweeping-mopping": {
+      "slug": "sweeping-mopping",
+      "title": "Sweeping & Mopping",
+      "subtitle": "",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "utensils": {
+      "slug": "utensils",
+      "title": "Utensils",
+      "subtitle": "We'll do the dishes.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    },
+    "window": {
+      "slug": "window",
+      "title": "Window Cleaning",
+      "subtitle": "Clear glass. Clean views. Flawless finish. Every single time.",
+      "description": "Careers:",
+      "included": [],
+      "not_included": []
+    }
+  },
+  "cities": {
+    "bangalore": {
+      "slug": "bangalore",
+      "title": "Bangalore",
+      "h1_text": "House help in Bangalore, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Bangalore. Book a Pro in the app on a schedule that works for you."
+    },
+    "delhi": {
+      "slug": "delhi",
+      "title": "Delhi",
+      "h1_text": "House help in Delhi, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Delhi. Book a Pro in the app on a schedule that works for you."
+    },
+    "faridabad": {
+      "slug": "faridabad",
+      "title": "Faridabad",
+      "h1_text": "House help in Faridabad, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Faridabad. Book a Pro in the app on a schedule that works for you."
+    },
+    "ghaziabad": {
+      "slug": "ghaziabad",
+      "title": "Ghaziabad",
+      "h1_text": "House help in Ghaziabad, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Ghaziabad. Book a Pro in the app on a schedule that works for you."
+    },
+    "gurgaon": {
+      "slug": "gurgaon",
+      "title": "Gurgaon",
+      "h1_text": "House help in Gurgaon, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Gurgaon. Book a Pro in the app on a schedule that works for you."
+    },
+    "hyderabad": {
+      "slug": "hyderabad",
+      "title": "Hyderabad",
+      "h1_text": "House help in Hyderabad, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Hyderabad. Book a Pro in the app on a schedule that works for you."
+    },
+    "mumbai": {
+      "slug": "mumbai",
+      "title": "Mumbai",
+      "h1_text": "House help in Mumbai, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Mumbai. Book a Pro in the app on a schedule that works for you."
+    },
+    "navi-mumbai": {
+      "slug": "navi-mumbai",
+      "title": "Navi Mumbai",
+      "h1_text": "House help in Navi Mumbai, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Navi Mumbai. Book a Pro in the app on a schedule that works for you."
+    },
+    "noida": {
+      "slug": "noida",
+      "title": "Noida",
+      "h1_text": "House help in Noida, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Noida. Book a Pro in the app on a schedule that works for you."
+    },
+    "pune": {
+      "slug": "pune",
+      "title": "Pune",
+      "h1_text": "House help in Pune, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Pune. Book a Pro in the app on a schedule that works for you."
+    },
+    "thane": {
+      "slug": "thane",
+      "title": "Thane",
+      "h1_text": "House help in Thane, on your schedule.",
+      "subtitle": "A team of trained and highly-rated HomeEase Professionals serves homes across Thane. Book a Pro in the app on a schedule that works for you."
+    }
+  },
+  "faqs": [
+    {
+      "question": "What is HomeEase?",
+      "answer": "HomeEase is an on-demand as well as subscription-based house help platform designed for urban convenience. We connect trained professionals with those in need of help with household chores such as cleaning, laundry, kitchen, and bathroom upkeep. You can schedule our services for later or book instant service which will reach you within 15 minutes."
+    },
+    {
+      "question": "How is HomeEase different from hiring house help directly?",
+      "answer": "With HomeEase you get a trained, background-verified Pro, transparent in-app pricing, on-demand booking within 15 minutes, and the ability to pause or reschedule without awkward conversations. There's no advance payment, no informal commitments, and no risk of a no-show with no recourse - if a Pro can't make it, the app re-assigns automatically."
+    },
+    {
+      "question": "How do I download the HomeEase app?",
+      "answer": "The HomeEase app is available on the Google Play Store (Android) and Apple App Store (iPhone). Search for \\\"HomeEase - house help\\\" or use the download links anywhere on this site. Sign up takes under a minute - just your phone number, address, and OTP."
+    },
+    {
+      "question": "How do I book services?",
+      "answer": "You can book our services through the HomeEase app available on both Google Play Store and App Store. Just select the chores you need help with, pick a time and we will send across our verified professional who will take it from there!"
+    },
+    {
+      "question": "How quickly can a HomeEase Professional reach my home?",
+      "answer": "For instant bookings, a verified Pro reaches you within 15 minutes of confirmation. You can also schedule a Pro for later in the day or set up a recurring slot for the same time each week."
+    },
+    {
+      "question": "Can I book multiple services in one visit?",
+      "answer": "Yes. The HomeEase app lets you stack tasks - say sweeping, mopping, utensils, and ironing - into a single booking. One Pro handles all of them in one visit, so you don't coordinate multiple visits or pay multiple booking fees."
+    },
+    {
+      "question": "Can I book a recurring service?",
+      "answer": "Yes. HomeEase supports recurring bookings - daily, weekly, or a custom cadence that fits your home. Set it up once in the app and the system auto-assigns the best available trained Pro for every visit, with consistent service quality across visits. You can pause, reschedule, or cancel any visit before it starts."
+    },
+    {
+      "question": "Can I cancel a HomeEase booking?",
+      "answer": "Yes. You can cancel any booking from the app before the Pro arrives. Cancellations made well in advance are free; cancellations close to the booking time may carry a small charge to compensate the Pro for the slot they reserved. See our Cancellation Policy for the exact timing tiers."
+    },
+    {
+      "question": "Are HomeEase Professionals background-verified?",
+      "answer": "Yes. Every HomeEase Pro completes a formal training program and a thorough background check before their first booking. We also continuously monitor service quality through customer ratings and feedback after every visit."
+    },
+    {
+      "question": "How can I trust your service?",
+      "answer": "All the HomeEase professionals undergo a formal training process and thorough background check. We ensure services provided by trained and trusted professionals. In the case of any occurrence that makes you uncomfortable, feel free to reach out to us immediately and our team will work promptly towards resolving the issue. We have proudly cleaned over 15,000 homes with an over 99% satisfaction rate."
+    },
+    {
+      "question": "What if I'm not happy with the service?",
+      "answer": "If a visit doesn't meet your expectations, reach out to us immediately at help@withpronto.com or via chat support inside the HomeEase app. We work to resolve the issue, send a replacement Pro if needed, and process a refund where appropriate. We take every piece of feedback seriously."
+    },
+    {
+      "question": "How are your services priced?",
+      "answer": "Pricing is transparent and shown upfront in the HomeEase app. Each service is priced per visit - no per-bedroom multipliers, no hidden charges, no advance deposits. Hourly bundles start from 30-minute slots; per-task services like bathroom cleaning, fridge cleaning, or utensil washing are priced per visit. Open the app and enter your address to see live prices for your locality."
+    },
+    {
+      "question": "Is HomeEase available in my area?",
+      "answer": "HomeEase is live in 11 Indian cities, including Bangalore, Delhi, Faridabad, Ghaziabad, Gurgaon, Hyderabad, Mumbai, Navi Mumbai, Noida, Pune, and Thane. Within each city we serve hundreds of localities and gated societies. Open the HomeEase app and enter your address to confirm availability at your exact location."
+    },
+    {
+      "question": "Where can I use HomeEase?",
+      "answer": "HomeEase is live in 11 cities across India - Mumbai, Bangalore, Delhi, Hyderabad, Pune and more. Open the app and enter your address to confirm availability in your area. Don't see your city? We are expanding fast. Request HomeEase in your locality."
+    },
+    {
+      "question": "How do I contact support?",
+      "answer": "Need help? Email us at help@withpronto.com or reach out to us via chat support inside the HomeEase app."
+    }
+  ],
+  "policies": {
+    "cancellation-policy": {
+      "title": "Cancellation Policy",
+      "sections": [
+        {
+          "heading": "Cancellation Policy",
+          "paragraphs": [
+            "Last updated: March 25, 2026"
+          ]
+        },
+        {
+          "heading": "Cancellation & Refund Policy",
+          "paragraphs": [
+            "Last Updated on March 25, 2026",
+            "This Cancellation and Refund Policy (the “Policy”) is made by Swachh Saathi Private Limited, a private limited company incorporated under the Companies Act, 2013, having its (a) registered office at off No. 2, J Unit, Sunder, Jamnotri CHS Ltd, SV Road, Malad West Dely, Mumbai, Malad West, Maharashtra, India 400064; and (b) corporate office at Ground Floor H. No 356, Sector 28, Gurugram, Haryana, 122002 (hereinafter referred to as “HomeEase” or the “Company”, which expression shall, unless the context otherwise requires, be deemed to mean and include its successor and permitted assigns). HomeEase operates through a technology enabled platform (the “Platform”) providing house keeping services and other services (the “Service(s)”) to users (defined below) through professionals (defined below). The Platform solely acts as an intermediary facilitating professionals (the “Professional(s)”) and customers (the “User(s)”). This Platform does not provide any Service directly.",
+            "Services offered on the Platform",
+            "The Platform offers the following Services:",
+            "Instant Services- Services which are provided by the Professional immediately or within a short period of time.",
+            "Scheduled Services- Services that are provided at a later date and time.",
+            "Recurring Services/Subscription Services- Services booked on a weekly, monthly, or custom recurring basis.",
+            "Each of the above Services have different cancellation and refund mechanisms.",
+            "Cancellation",
+            "Instant Services- Once a Professional has been assigned or has commenced the provision of Services, the User shall not be entitled to cancel such Services. In the event that a Professional has not yet been assigned, the User may cancel the Services availed through the Platform.",
+            "Scheduled Services- For scheduled Services the following are the cancellation timelines:",
+            "If cancellation occur after 6 (six) or more hours prior to the scheduled service time, then full refund shall be provided to the User.",
+            "If cancellation occur’s within a period of not less than one (1) hour and not more than 6 (six) hours prior to the Scheduled Service Time then the Company shall refund upto 50% (Fifty) percent of the amount to the User.",
+            "If cancellation occurs less than one (1) hour prior to the Scheduled Service Time then the Company shall not be liable to provide any refund.",
+            "For scheduled services, if the User is not available at the scheduled time and location then it shall be treated as a no show. Any instance of no show shall not be eligible for a refund.",
+            "Recurring Services-",
+            "Cancellation of Individual Sessions",
+            "Users may cancel an individual session within a recurring plan at no cost, provided the cancellation is made at least 6 hours prior to the scheduled start time.",
+            "Cancellations made with less than 6 (six) hours’ notice or a no show , will result in a late cancellation fee equal to 100% of the session cost.",
+            "Cancellation of Entire Plan",
+            "Users may terminate a recurring plan at any time.",
+            "Any sessions scheduled within 6 (six) hours of a plan cancellation shall remain billable and non-refundable,",
+            "Any future sessions beyond this period shall not be charged.",
+            "Service Suspension (Pausing)",
+            "Recurring Services may be paused through the app at any time by the User.",
+            "Any period which is paused by the User shall not be subject to any refund.",
+            "During the pause period, the User will not be charged.",
+            "Cancellations by Professionals or the Company",
+            "If cancellation is carried out by the Company or the Professional, the User shall receive the full amount of refund. The User shall be offered the option to reschedule the Service or be provided with equivalent service credits.",
+            "Refunds",
+            "Instant Services- Refunds for Instant Services shall be only provided in the following cases:",
+            "If the Professional did not arrive at the assigned time;",
+            "Service provided by the Professional was different from what was requested by the User; or",
+            "Service could not be completed due to reasons by the Professional.",
+            "Scheduled Services- User will receive refunds if the cancellation timeline is followed as per point 3.",
+            "Recurring Services- Users may cancel an individual session within a recurring plan at no cost, provided the cancellation is made at least 6 (six) hours prior to the scheduled start time and will be subject to refund.",
+            "Any Services that are booked using coupons or discounts are not eligible for a refund. If promotional credits are refunded, they will be reissued as service credits.",
+            "Quality Issues",
+            "Any quality issues with respect to the Service provided by the Professional must be reported by the User within 24 (Twenty Four ) hours of the Service. Service quality issues must be reported to the following mail help@withpronto.com. If the User is not satisfied with the Service provided by the Professional, Users may receive either of the following:",
+            "Partial or full refund based on a case to case basis;",
+            "Equivalent Amount of Service credits’; or",
+            "Re-service.",
+            "Any quality-related issue shall be subject to internal review by the Company and will be determined on a case-by-case basis.",
+            "Refund Processing Timeline",
+            "Any refunds initiated by the Company shall be processed within 7 (Seven) to 14 (fourteen) business days and credited to the User’s original mode of payment.",
+            "Notice for Refunds/ Cancellations",
+            "Any issues related to refunds and cancellations must be raised within 2 (Two) days receiving the Service. This notice shall be applicable for instant Services, scheduled and recurring Services.",
+            "Misuse of Policy",
+            "The Company reserves the right to refuse any refunds in case the Company reasonably believes that there are repeated cancellations or fraudulent activities carried out.",
+            "Force Majeure",
+            "The Company shall not be liable for any delays or cancellations which are beyond its reasonable control. These events include the following:",
+            "Acts of God;",
+            "Natural disasters (such as floods, earthquakes, or epidemics);",
+            "War;",
+            "Terrorism;",
+            "Civil commotion;",
+            "Epidemics, pandemics",
+            "Riots;",
+            "Strikes or labour disputes (not involving the affected Party’s workforce);",
+            "Governmental actions, orders or restrictions;",
+            "Failure of utilities; or",
+            "any other event which is unforeseeable and beyond the reasonable control of the affected Party.",
+            "For any questions or concerns pertaining to this Policy, please contact help@withpronto.com",
+            "Careers careers@withpronto.com"
+          ]
+        }
+      ]
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "sections": [
+        {
+          "heading": "Privacy Policy",
+          "paragraphs": [
+            "Last updated: November 9, 2024",
+            "Last Updated on November 9, 2024"
+          ]
+        },
+        {
+          "heading": "Information We Collect",
+          "paragraphs": [
+            "Welcome to Swachh Saathi's privacy policy (\"Privacy Policy\" or \"Policy\").",
+            "Swachh Saathi Private Limited and its affiliates (collectively, \"Swachh Saathi\", \"we\" or \"us\") are engaged in the business of providing web-based solutions to facilitate connections between customers that seek specific services and service professionals that offer these services. This Policy outlines our practices in relation to the collection, storage, usage, processing, and disclosure of personal data that you have consented to share with us when you access, use, or otherwise interact with our website available at https://www.withpronto.com/ or mobile application 'HomeEase' (collectively, \"Platform\") or avail products or services that Swachh Saathi offers you on or through the Platform (collectively, the \"Services\").",
+            "At Swachh Saathi, we are committed to protecting your personal data and respecting your privacy. In order to provide you with access to the Services or the Professional Services, we have to collect and otherwise process certain data about you. This Policy explains how we process and use personal data about you.",
+            "Please note that unless specifically defined in this Policy, capitalised terms shall have the same meaning ascribed to them in our Terms and Conditions, available at https://www.withpronto.com/#/terms (\"Terms\"). Please read this Policy in consonance with the Terms.",
+            "By using the Services, you confirm that you have read and agree to be bound by this Policy and consent to the processing activities described under this Policy.",
+            "Please refer to Section 1 to understand how the terms of this Policy apply to you."
+          ]
+        },
+        {
+          "heading": "1. Background and Key Information",
+          "paragraphs": []
+        },
+        {
+          "heading": "2. Personal Data That We Collect",
+          "paragraphs": [
+            "(a) We collect different types of personal data about you. This includes, but is not limited to:",
+            "Contact Data: such as your mailing or home address, location, email addresses, and mobile numbers.",
+            "Identity and Profile Data: such as your name, username or similar identifiers, photographs, and gender.",
+            "Marketing and Communications Data: such as your address, email address, information posted in service requests, offers, wants, feedback, comments, pictures and discussions in our blog and chat boxes, responses to user surveys and polls, your preferences in receiving marketing communications from us and our third parties, and your communication preferences. We also collect your chat and call records when you communicate with service professionals through the Platform.",
+            "Technical Data: which includes your IP address, browser type, internet service provider, details of operating system, access time, page views, device ID, device type, frequency of visiting our website and use of the Platform, website and mobile application activity, clicks, date and time stamps, location data, and other technology on the devices that you use to access the Platform.",
+            "Transaction Data: such as details of the Services or Professional Services you have availed, a limited portion of your credit or debit card details for tracking transactions that are provided to us by payment processors, and UPI IDs for processing payments.",
+            "Usage Data: which includes information about how you use the Services and Professional Services, your activity on the Platform, booking history, user taps and clicks, user interests, time spent on the Platform, details about user journey on the mobile application, and page views.",
+            "(b) We also collect, use, and share aggregated data such as statistical or demographic data for any purpose. Aggregated data could be derived from your personal data but is not considered personal data under law as it does not directly or indirectly reveal your identity. However, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Policy.",
+            "(c) What happens if I refuse to provide my personal data?",
+            "Where we need to collect personal data by law, or under the terms of a contract (such as the Terms), and you fail to provide that data when requested, we may not be able to perform the contract (for example, to provide you with the Services). In this case, we may have to cancel or limit your access to the Services."
+          ]
+        },
+        {
+          "heading": "3. How Do We Collect Personal Data?",
+          "paragraphs": [
+            "We use different methods to collect personal data from and about you including through:",
+            "(a) Direct Interactions.",
+            "You provide us your personal data when you interact with us. This includes personal data you provide when you:create an account or profile with us;use our Services or carry out other activities in connection with the Services;enter a promotion, user poll, or online surveys;request marketing communications to be sent to you; orreport a problem with the Platform and/or our Services, give us feedback or contact us.",
+            "(b) Automated technologies or interactions.",
+            "Each time you visit the Platform or use the Services, we will automatically collect Technical Data about your equipment, browsing actions, and patterns. We collect this personal data by using cookies, web beacons, pixel tags, server logs, and other similar technologies. We may also receive Technical Data about you if you visit other websites or apps that employ our cookies.",
+            "(c) Third parties or publicly available sources.",
+            "We will receive personal data about you from various third parties:Technical data from analytics providers such as Facebook and advertising networks;Identity and profile-related Data and Contact Data from service professionals, publicly available sources, etc.;Personal data about you from our affiliate entities."
+          ]
+        },
+        {
+          "heading": "4. How Do We Use Your Personal Data?",
+          "paragraphs": [
+            "(a) We will only use your personal data when the law allows us to. Most commonly, we will use your personal data where we need to provide you with the Services, enable you to use the Professional Services, or where we need to comply with a legal obligation. We use your personal data for the following purposes:to verify your identity to register you as a user, and create your user account with us on the Platform; to provide the Services to you; to enable the provision of Professional Services to you; to monitor trends and personalise your experience;to improve the functionality of our Services based on the information and feedback we receive from you;to improve customer service to effectively respond to your Service requests and support needs;to track transactions and process payments; to send periodic notifications to manage our relationship with you including to notify you of changes to the Services, send you information and updates pertaining to the Services you have availed, and to receive occasional company news and updates related to us or the Services; to assist with the facilitation of the Professional Services offered to you, including to send you information and updates about the Professional Services you have availed;to market and advertise the Services to you; to comply with legal obligations;to administer and protect our business and the Services, including for troubleshooting, data analysis, system testing, and performing internal operations; to improve our business and delivery models;to perform our obligations that arise out of the arrangement we are about to enter or have entered with you; to enforce our Terms; andto respond to court orders, establish or exercise our legal rights, or defend ourselves against legal claims.(b) You agree and acknowledge that by using our Services and creating an account with us on the Platform, you authorise us, our service professionals, associate partners, and affiliates to contact you via email, phone, or otherwise. This is to provide the Services to you and ensure that you are aware of all the features of the Services and for related purposes.(c) You agree and acknowledge that any and all information pertaining to you, whether or not you directly provide it to us (via the Services or otherwise), including but not limited to personal correspondence such as emails, instructions from you, etc., may be collected, compiled, and shared by us in order to render the Services to you. This may include but not be limited to service professionals who provide or seek to provide you with Professional Services, vendors, social media companies, third-party service providers, storage providers, data analytics providers, consultants, lawyers, and auditors. We may also share this information with other entities in the Swachh Saathi group in connection with the above-mentioned purposes.(d) You agree and acknowledge that we may share data without your consent, when it is required by law or by any court or government agency or authority to disclose such information. Such disclosures are made in good faith and belief that it is reasonably necessary to do so for enforcing this Policy or the Terms, or in order to comply with any applicable laws and regulations."
+          ]
+        },
+        {
+          "heading": "Cookies",
+          "paragraphs": [
+            "(a) Cookies are small files that a site or its service provider transfers to your device's hard drive through your web browser (if you permit it to) that enables the sites or service providers' systems to recognise your browser and capture and remember certain information.(b) We use cookies to help us distinguish you from other users of the Platform, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer you a seamless user experience. We may contact third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.(c) Additionally, you may encounter cookies or other similar devices on certain pages of the Platform that are placed by third parties. We do not control the use of cookies by third parties. If you send us personal correspondence, such as emails, or if other users or third parties send us correspondence about your activities or postings on the Platform, we may collect such information within a file specific to you."
+          ]
+        },
+        {
+          "heading": "6. Disclosures of Your Personal Data",
+          "paragraphs": [
+            "(a) We may share your personal data with third parties set out below for the purposes set out in Section 4:",
+            "Service professionals to enable them to provide you with Professional Services;",
+            "Internal third parties, which are other companies within the Swachh Saathi group of companies.",
+            "External third parties such as:",
+            "trusted third parties such as our associate partners, and service providers that provide services for us or on our behalf. This includes hosting and operating our Platform, providing marketing assistance, conducting our business, processing payments and transaction-related processes, transmitting content, and providing our Services to you;",
+            "analytic service providers and advertising networks that conduct web analytics for us to help us improve the Platform. These analytics providers may use cookies and other technologies to perform their services;",
+            "other registered users on our Platform upon your request or where you explicitly consent to such disclosure; and",
+            "regulators and other bodies, as required by law or regulation.",
+            "(b) We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions."
+          ]
+        },
+        {
+          "heading": "7. Your Rights in Relation to Your Personal Data",
+          "paragraphs": [
+            "(a) Access and Updating your Personal Data: You hereby warrant that all personal data that you provide us with is accurate, up-to-date, and true. When you use our Services, we make best efforts to provide you with the ability to access and correct inaccurate or deficient data, subject to any legal requirements. You can request Swachh Saathi for a copy of your personal data by sending an email to help@withpronto.com. Swachh Saathi may take up to 7 (seven) working days respond to such request.(b) Opting-out of Marketing and Promotional Communications:When we send you marketing and promotional content through email, we make best efforts to provide you with the ability to opt-out of such communications by using the opt-out instructions provided in such emails. You understand and acknowledge that it may take us up to 10 (Ten) business days to give effect to your opt-out request. Please note that we may still send you emails about your user account or any Services you have requested or received from us."
+          ]
+        },
+        {
+          "heading": "8. Deletion of Account and Personal Data",
+          "paragraphs": [
+            "Notwithstanding anything contained in the Terms, you may delete your account as well as your personal data stored with Swachh Saathi by sending an email to help@withpronto.com. Swachh Saathi may take up to 7 (seven) working days to process your request. Once your account is deleted, you will lose access to all Services. For avoidance of doubt, it is hereby clarified that all data with respect to transactions performed by you on the Platform will be retained in accordance with applicable law."
+          ]
+        },
+        {
+          "heading": "9. Transfers of Your Personal Data",
+          "paragraphs": [
+            "(a) We comply with applicable laws in respect of storage and transfers of personal data. As a part of your use of the Services, the information and personal data you provide to us may be transferred to and stored in countries other than the country you are based in. This may happen if any of our servers are from time to time located in a country other than the one you are based, or one of our vendors, partners, or service providers is located in a country other than one you are based in.",
+            "(b) By submitting your information and personal data to us, you agree to the transfer, storage, and processing of such information and personal data in the manner described above."
+          ]
+        },
+        {
+          "heading": "10. Data Security",
+          "paragraphs": [
+            "(a) We implement appropriate security measures and privacy-protective features on our Platform including encryption, password protection, call masking, and physical security measures to protect your personal data from unauthorised access and disclosure, and follow standards prescribed by applicable law.",
+            "(b) Where you have chosen a password that enables you to access certain parts of the Services or Professional Services, you are responsible for keeping this password secret and confidential. We will not be responsible for any unauthorised use of your information, or for any lost, stolen, or compromised passwords, or for any activity on your user account due to such unauthorised disclosure of your password. In the event your password has been compromised in any manner whatsoever, you should promptly notify us to enable us to initiate a change of password."
+          ]
+        },
+        {
+          "heading": "11. Data Retention",
+          "paragraphs": [
+            "(a) You agree and acknowledge that your personal data will continue to be stored and retained by us for as long as necessary to fulfil our stated purpose(s) and for a reasonable period after the termination of your account on the Platform or access to the Services to comply with our legal rights and obligations.(b) In some circumstances, we may aggregate your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you."
+          ]
+        },
+        {
+          "heading": "12. Business Transitions",
+          "paragraphs": [
+            "You are aware that in the event we go through a business transition, such as a merger, acquisition by another organisation, or sale of all or a portion of our assets, your personal data might be among the assets transferred."
+          ]
+        },
+        {
+          "heading": "13. User Generated Content",
+          "paragraphs": [
+            "We invite you to post content on our Platform, including your comments, feedback, pictures, or any other information that you would like to be made available on our Platform. Please note that such content will be available to all visitors to our Platform and may become public. We cannot prevent such information from being used in a manner that is contrary to this Policy, applicable laws, or your personal privacy, and we disclaim all liability (express or implied) in this regard. Further, you agree to comply with all applicable laws in relation to the content uploaded or otherwise shared by you on our Platform. You understand and acknowledge that you will be solely responsible for any information published by you on our Platform that violates applicable laws."
+          ]
+        },
+        {
+          "heading": "14. Updates to This Policy",
+          "paragraphs": [
+            "(a) We may occasionally update this Policy. If we make changes to this Policy, we will upload the revised policy on the Platform or share it with you through other means, such as email. To the extent permitted under applicable law, by using our Platform after such notice, you consent to updates made to this Policy.",
+            "(b) We encourage you to periodically review this Policy for the latest information on our privacy practices."
+          ]
+        },
+        {
+          "heading": "15. Payments",
+          "paragraphs": [
+            "We use Razorpay for processing payments. Our payment gateway does not store your card data on their servers. The data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS) when processing payment. Your purchase transaction data is only used as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is not saved.",
+            "Our payment gateway adheres to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.",
+            "PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.",
+            "For more insight, you may also want to read terms and conditions of Razorpay on https://razorpay.com"
+          ]
+        },
+        {
+          "heading": "16. Grievance Officer",
+          "paragraphs": [
+            "If you have any questions about this Policy, how we process or handle your personal data, or otherwise, you may reach out to us, with your queries, grievances, feedback, and comments at help@withpronto.com or contact our grievance officer whose contact details are provided below:",
+            "Grievance OfficersName: Anjali SardanaDesignation: Chief Executive OfficerEmail: help@withpronto.com",
+            "Careers careers@withpronto.com"
+          ]
+        }
+      ]
+    },
+    "tnc": {
+      "title": "Terms & Conditions",
+      "sections": [
+        {
+          "heading": "Terms & Conditions",
+          "paragraphs": [
+            "Last updated: March 25, 2026",
+            "These terms and conditions (\"Terms\") govern the use of services made available on or through https://www.withpronto.com/ and/or the \"PRONTO\" mobile app (collectively, the \"Platform\", and together with the services made available on or through the Platform, the \"Services\"). These Terms also include our privacy policy, available at on the website and the app (\"Privacy Policy\"), and any guidelines, additional, or supplemental terms, policies, and disclaimers made available or issued by us from time to time (\"Additional Terms\"). Privacy Policy and Additional Terms form an integral part of these Terms.",
+            "These Terms form a legally binding agreement between Swachh Saathi Private Limited a company incorporated under the Companies Act, 2013 with its (a) registered office at off No. 2, J Unit, Sunder, Jamnotri CHS Ltd, SV Road, Malad West Dely, Mumbai, Malad West, Maharashtra, India 400064; and (b) business corporate office at Ground Floor H. No 356, Sector 28, Gurugram, Haryana, 122002 (\"Company\", \"we\", \"us\", or \"our\"), and you, a user of the Services, or any legal entity that books Pro Services (defined below) on behalf of end-users (\"you\" or \"Customer\"). By using the Services, you represent and warrant that you have full legal capacity and authority to agree to and bind yourself to these Terms. Where you access or use the Services on behalf of another person or entity, you confirm that you are duly authorized to accept these Terms on their behalf.",
+            "Please read these Terms carefully. By accessing or using the Platform, you are agreeing to these Terms and concluding a legally binding contract with the Company. You may not use the Services if you do not accept the Terms or are unable to be bound by the Terms. Your use of the Platform is at your own risk, including the risk that you might be exposed to content that is objectionable, or otherwise inappropriate.",
+            "In order to use the Services, you must first agree to the Terms. You can accept the Terms by:",
+            "(a) Clicking to accept or agree to the Terms as may be applicable from time to time, where it is made available to you by the Company in the user interface for any particular Service; or",
+            "(b) Actually using the Services. In this case, you understand and agree that the Company will treat your use of the Services as acceptance of the Terms from that point onwards.",
+            "By using the Services, you agree that you have read, understood, and are bound by these Terms, as amended from time to time, and that you will comply with the requirements listed here. These Terms expressly supersede any prior written agreements with you. If you do not agree to these Terms, or comply with the requirements listed here, please do not use the Services."
+          ]
+        },
+        {
+          "heading": "1. SERVICES AND PRO SERVICES",
+          "paragraphs": [
+            "1.1. The Services include the provision of the Platform that enables you to access and avail: (a) certain home-based services and / or certain other services, that may be made accessible to you by the Company through independent third-party service providers (\"Professionals\") who are onboarded on the Platform to offer general household cleaning and/or kitchen preparation services and other services (\"Pro Services\"). The Company is only an aggregator and a technology intermediary in respect of Pro Services and facilitates discovery, booking and payment facilitation using third party payment processors and banks, for such Pro Services, but does not provide or control the performance of such Pro Services. The matching of Customers with Professionals may be facilitated through automated or algorithmic systems and does not constitute any recommendation, endorsement, or guarantee by the Company. For clarity, Pro Services are not services provided by the Company.",
+            "1.2. The Services may be offered through different formats, including one-time bookings, bundled service packages, subscription-based plans (daily, weekly or monthly), or other service offerings as may be made available on the Platform from time to time. In the case of subscription-based plans or service packages, you may be required to make an upfront payment for services to be delivered over a defined period, and such payments shall be treated as advance consideration for Services and may, where applicable, be reflected as a prepaid balance in accordance with Clause 5.14 below. Such offerings may be subject to additional terms, including validity periods, usage limits, scheduling conditions, and eligibility for refunds or carry-forward, as may be specified on the Platform at the time of purchase or booking. Such offerings may, where applicable, be funded through other payment mechanisms made available on the Platform.",
+            "1.3. The Company does not undertake or assume responsibility for the performance of any Pro Services. Each Professional bears sole responsibility and liability for the Pro Services they provide, including their quality, safety, and execution. The Company and its affiliates do not employ Professionals, nor are the Professionals, agents, contractors, or partners of the Company or its affiliates. Professionals are not authorized to act for, represent, or create obligations on behalf of the Company. While the Company provides training to the Professionals, from time to time and also provides the necessary tools and equipment, as may be required, the Company does not supervise, direct, or control the manner or method of performance of Pro Services by Professionals. The Company would however undertake reasonable due diligence measures, including identity verification, background and onboarding checks of Professionals.",
+            "1.4. The Platform is for your personal and non-commercial use only.",
+            "1.5. To support service delivery and platform operations, the Company may communicate with you via phone calls, text messages, emails, WhatsApp, or in-app notifications, including for Platform updates, booking updates, transactional information, and service-related announcements. You may request limiting certain categories of communications; however, doing so may restrict our ability to provide timely updates or complete certain services. Such communications shall be made in accordance with applicable law and the Privacy Policy.",
+            "1.6. The Company or a Professional may require you to provide valid identification in connection with certain Services or Pro Services, and failure to do so may restrict access to such services.",
+            "1.7. The Company reserves the right to decline or refuse any booking request at its discretion, including where it identifies safety, compliance, or operational concerns and does not guarantee the availability of Professionals for all requested services, time slots, or locations.",
+            "1.8. The Company may periodically update, refine, or modify the Platform and Services to improve functionality and user experience. You acknowledge and agree that the nature and scope of services offered on the Platform may be subject to changes, updates, or modifications from time to time. Accordingly, the Company reserves the right to modify, suspend, cancel, or discontinue any or all of its Services, features, or content at any time, without prior notice. Such modifications may include, but are not limited to, changes in service offerings, pricing, policies, or platform functionalities. Your continued use of the Platform following any such changes shall constitute your acceptance of the modified terms. The Company shall not be liable for any disruption, modification, or discontinuation of any services or features, whether temporary or permanent.",
+            "1.9. Prices for Services would be determined dynamically based on factors including demand, location, service complexity, time of booking, and other marketplace conditions, and may be generated through automated or algorithmic systems. Professionals may be displayed, ranked, or categorised on the Platform based on objective criteria such as customer ratings, service quality, completion history, and other marketplace parameters, and such ranking is intended to enhance transparency and does not constitute a guarantee of service quality or outcome. Certain Services may be delivered using standardised materials, consumables, uniforms, or processes prescribed by the Company to maintain consistency, safety, and service quality across the Platform, and the use of such materials or branding shall not be construed as creating any employment or agency relationship between the Company and Professionals."
+          ]
+        },
+        {
+          "heading": "2. ELIGIBILITY TO USE THE SERVICES",
+          "paragraphs": [
+            "2.1. You confirm that you are at least 18 years old and have the legal capacity to understand, accept, and comply with these Terms.",
+            "2.2. You are in compliance with all laws and regulations of India when you access and use the Services. You agree to use the Services only in compliance with these Terms and applicable law, and in a manner that does not violate our legal rights or those of any third party(ies) or the rights of any Professionals providing Pro Services."
+          ]
+        },
+        {
+          "heading": "3. ACCOUNT CREATION",
+          "paragraphs": [
+            "3.1. To avail the Services, you will be required to create an account on the Platform (\"Account\"). For this Account, you may be required to furnish certain details, including but not limited to your name, e-mail address, and phone number and such other information or documentation as may be required for identity verification, fraud prevention, or compliance with applicable law.",
+            "3.2. You warrant that all information furnished in connection with your Account is and shall remain accurate and true. You agree to promptly update your details on the Platform in the event of any change to or modification of this information.",
+            "3.3. You are solely responsible for maintaining the security and confidentiality of your Account and agree to immediately notify us of any disclosure or unauthorised use of your Account or any other breach of security with respect to your Account.",
+            "3.4. You are responsible for all actions carried out through your Account, whether undertaken by you or by any third party using your login credentials. We shall not be liable for any unauthorised access to your Account unless such unauthorised access arises due to our gross negligence or wilful misconduct.",
+            "3.5. You agree to receive communications from us regarding: (i) requests for payments, (ii) information about us and the Services, (iii) promotional offers and services from us and our third-party partners, and (iv) any other matter in relation to the Services in accordance with applicable law and the Privacy Policy."
+          ]
+        },
+        {
+          "heading": "4. BOOKINGS",
+          "paragraphs": [
+            "4.1. The Platform allows you to place requests for Pro Services based on availability and time slots displayed at the time of booking. To make a booking, you should follow the instructions on the Platform and provide necessary information. We use reasonable efforts to enable you to find a Professional who is able to provide that Service at the requested time. If we are unable to find a Professional for the specific time slot, we will contact you to find an alternative time to reschedule, or intimate you when the Professional is available to provide the Service or cancel the booking. The allocation or matching of Professionals may be facilitated through automated or algorithmic systems.",
+            "4.2. Once you place a request, we will provide confirmation of the booking via SMS, email or a push notification. Once your booking has been confirmed, you will be required to make the payment in accordance with these Terms or as indicated on the Platform. Once a Professional has been identified for the requested Pro Services, you shall receive confirmation in-app or via SMS, email or a push notification containing details of the Professional including, where available, relevant information such as name, ratings, experience, or other marketplace-related details to enable informed decision-making.",
+            "4.3. Bookings that are cancelled before confirmation on the Platform will not be charged. Our cancellation policy, available at Cancellation Policy, sets out applicable cancellation fees.",
+            "4.4. If a booked Professional becomes unavailable, the Company may, where possible, arrange an alternative Professional or assist with rescheduling or cancellation and the Customer acknowledges that availability of a replacement Professional is not guaranteed.",
+            "4.5. The Customer acknowledges that certain Pro Services may require the availability of utilities, equipment, consumables, or access at the service location, and the Professional's ability to perform the Pro Services may be affected if such requirements are not met. The Company may in such circumstances update assigned Professionals or revise pricing components prior to service commencement, subject to informing the Customer and obtaining confirmation where required and such revisions may be based on actual service requirements or marketplace conditions.",
+            "4.6. You agree to ensure that the Professional is provided with timely and adequate access to the service location and all necessary conditions required for the performance of the Pro Services. This includes, without limitation:",
+            "(a) obtaining and facilitating entry permissions, security clearances, or gate passes (including at gated communities or commercial premises);",
+            "(b) ensuring availability of functional lifts, parking space, or reasonable access for movement of equipment, where applicable;",
+            "(c) informing in advance of any conditions that may affect service delivery, including the presence of pets, restricted access areas, or safety hazards; and",
+            "(d) ensuring that there are no undue delays at the service location, including delays caused by building management, security procedures, or access restrictions.",
+            "4.7. The Customer acknowledges that any failure to comply with the above may result in delays, inability to perform the Pro Services, additional charges, or cancellation or rescheduling of the booking, and the Company and/or the Professional shall not be liable for any such delay or non-performance attributable to such conditions.",
+            "4.8. Any time estimates, schedules, or service durations displayed on the Platform for a booking are indicative only and may vary based on on-ground conditions and do not constitute a guarantee of completion timelines."
+          ]
+        },
+        {
+          "heading": "5. PAYMENT TERMS",
+          "paragraphs": [
+            "5.1. The Company reserves the right to collect from you for the different Services provided by it and/or Pro Services provided by the professional, which you may avail and/or for any other facilities you may opt for, from time to time, on or via the Platform in accordance with applicable law and as disclosed on the Platform at the time of booking.",
+            "5.2. In respect of Pro Services that you seek to avail through the Platform, you shall be required to pay the Company the amount indicated at the time of booking (\"Fees\"). The Fees may include amounts towards (a) the Pro Services you avail, (b) a convenience fee for facilitating the booking, (c) out-of-pocket expenses incurred by the Professional, (d) expenses arising out of the purchase of goods required or utilised for the performance of the Pro Service, and (e) any other charges, including a safety fee, warranty fee, insurance fee, or Professional welfare fee or similar charges as may be disclosed on the Platform. The Fees shall be different for one time service, bundled service packages, scheduled-based plans (daily, weekly or monthly), or other service offerings as may be made available on the Platform from time to time.",
+            "5.3. All Fees are subject to applicable taxes.",
+            "5.4. The Company shall notify you of the applicable Fees, taxes, and payment methods at the time of booking. Typically, you may make payments for Pro Services through credit cards, debit cards, net banking, wallets, or UPI or such other means as may be made available on the Platform.",
+            "5.5. The Company duly raises the tax invoice/ debit note/ credit note in accordance with the regulatory requirement of the GST legislation, in case you may require the tax invoice please reach out to us on help@withpronto.com. We shall provide you with a copy of the same within 5 to 7 business working days.",
+            "5.6. All Fees for Pro Services are facilitated by the Company on behalf of the relevant Professional. Payment made by you to the Company for Pro Services shall be deemed to be made directly to the Professional to the extent of their revenue. The Company facilitates payment of amounts to Professionals in accordance with separate arrangements between the Company and such Professionals.",
+            "5.7. The Company reserves the right to amend the Fees at any time at its sole discretion. A change in Fees shall not impact any bookings that have been confirmed before the publication of the revised Fees on the Platform.",
+            "5.8. Payments made for confirmed bookings are generally non-refundable, except where a refund is required under applicable law or expressly approved by the Company.",
+            "5.9. You acknowledge that prices may vary based on location, demand, or other market conditions, and higher charges may apply during peak periods. The Company will use reasonable efforts to inform you of the Fees that may apply. However, by using Pro Services or Services, you will be responsible for the Fees incurred under your Account regardless of your awareness of such Fees and such pricing may be determined dynamically based on marketplace conditions or through automated systems.",
+            "5.10. Subject to applicable law, the Company reserves the right to withhold, delay, or adjust payments payable in connection with any Pro Services where it reasonably believes that (a) a refund, chargeback, or customer claim may arise, (b) there has been suspected fraud, misuse, or violation of these Terms, or (c) such withholding is required to comply with applicable law or contractual obligations. The Company may also set off any amounts payable to you against any amounts owed by you to the Company.",
+            "5.11. In the event of any chargeback, payment reversal, or disputed transaction, the Company reserves the right to recover the applicable amount and associated costs from the Customer.",
+            "5.12. We may use a third-party payment processor (\"Payment Processor\") to bill you through your selected mode of payment. The processing of payments will be subject to the terms and policies of such Payment Processor in addition to these Terms. We shall not be liable for any error of the Payment Processor. In the event of any unsuccessful payment, the money debited shall be credited in accordance with the terms of the Payment Processor."
+          ]
+        },
+        {
+          "heading": "5.13 Off-Platform Payments",
+          "paragraphs": [
+            "You agree that all payments for Services and Pro Services shall be made solely through the payment mechanisms made available on the Platform. You shall not, directly or indirectly, make any payment or settle any charges with a Professional outside the Platform. The Company shall not be liable for any services, disputes, losses, or damages arising from or in connection with any payments made directly to a Professional outside the Platform, and such transactions shall be undertaken entirely at your own risk."
+          ]
+        },
+        {
+          "heading": "5.14 Prepaid Balance",
+          "paragraphs": [
+            "5.14.1. The Platform may enable you to maintain a prepaid balance for the purpose of availing Services (\"Prepaid Balance\"). The Prepaid Balance represents an advance payment made by you for Services to be availed on the Platform and is maintained as a customer ledger balance with the Company.",
+            "5.14.2. The Prepaid Balance may be used solely for booking and payment of Services available on the Platform and shall not be used for any payments to third parties outside the Platform.",
+            "5.14.3. The Prepaid Balance shall be non-transferable, non-interest bearing, and shall not be redeemable for cash, transferable to any third party, or withdrawn to any bank account, except where required under applicable law.",
+            "5.14.4. The Company may prescribe a maximum limit of INR 10,000 (Indian Rupees Ten Thousand only) for the Prepaid Balance that may be maintained in your Account at any given time, which shall be communicated on the Platform from time to time.",
+            "5.14.5. The prepaid balance shall remain valid for a period of 1 (One) Year from the date of loading or such other period as may be specified on the Platform, after which any unused balance may expire and may be forfeited and shall not be available for use or refund, subject to applicable law.",
+            "5.14.6. The Prepaid Balance is intended solely as a mechanism to facilitate advance payments for Services on the Platform and does not constitute a prepaid payment instrument, wallet, deposit, or any regulated payment system under applicable law."
+          ]
+        },
+        {
+          "heading": "6. CUSTOMER CONDUCT",
+          "paragraphs": [
+            "6.1. The Company strictly prohibits discrimination against Professionals on the basis of race, religion, caste, national origin, disability, sexual orientation, sex, marital status, gender identity, age, or any other characteristic protected under applicable law. Prohibited discrimination includes, without limitation, refusing to accept or engage Pro Services based on any such characteristic.",
+            "6.2. You agree to treat all Professionals with courtesy, dignity, and respect, and to provide a safe, clean, and appropriate location for the performance of the Pro Services. Professionals shall be entitled to refuse to perform Pro Services if such conditions are not provided or if you engage in conduct that is discourteous, disrespectful, abusive, threatening, or otherwise inappropriate. The Company reserves the right, in its sole and absolute discretion, to suspend, restrict, or terminate your access to the Services or Pro Services if your conduct toward any Professional is deemed discourteous, disrespectful, abusive, inappropriate, or unlawful.",
+            "6.3. You acknowledge and agree that you shall be solely responsible and liable for any discrimination against Professionals and for any failure, whether intentional or unintentional, to provide a safe, clean, and appropriate location for the performance of Pro Services. You further agree to promptly and fully disclose to the Company and the relevant Professional any information that may reasonably affect the Professional's ability to perform the Pro Services or that may impact the Professional's health, safety, or well-being.",
+            "6.4. The Company reserves the right to restrict access to refunds, promotions, or Services where it identifies a pattern of excessive, abusive, or bad-faith complaints, cancellations, or refund requests or misuse of the Platform.",
+            "6.5. You agree that if a Professional engages in conduct that is discourteous, disrespectful, abusive, inappropriate, or unlawful or unreasonable, you shall report such conduct to the Company at help@withpronto.com as soon as reasonably practicable, and in any event within forty-eight (48) hours of the occurrence of such conduct.",
+            "6.6. You represent and warrant that all information, documentation, material, or data provided by you in connection with the Services and/or Pro Services is complete, accurate, true, and not misleading as of the date you agree to these Terms, and that such information shall remain complete, accurate, and true for so long as you continue to avail the Services and/or Pro Services. You agree to promptly notify the Company of any changes to such information during the term of these Terms. The Company shall not be responsible or liable for any loss or damage suffered or incurred by you as a result of any incorrect, incomplete, inaccurate, misleading, or undisclosed information or material facts provided by you and such information may be used by the Company in accordance with the Privacy Policy and applicable law.",
+            "6.7. You agree to provide all reasonable cooperation and assistance to the Company in the defence of any claim, demand, investigation, or proceeding arising out of or relating to any breach of your obligations, representations, warranties, or covenants under these Terms.",
+            "6.8. The Company and Professionals shall not be responsible for delays, defects, or failures in Pro Services arising from interference, obstruction, or instructions provided by the Customer or any third party at the service location or due to conditions at the service location not disclosed at the time of booking.",
+            "6.9. The Company shall not be responsible for pre-existing defects, damage, or wear and tear at the service location, including fragile or deteriorated surfaces, fittings, or equipment.",
+            "6.10. The Customer is responsible for securing valuables, fragile items, and sensitive equipment prior to commencement of Pro Services. The Company and Professionals shall not be responsible for loss or damage to such items except as required under applicable law.",
+            "6.11. In relation to the Customer Review, you represent and warrant that:",
+            "(a) you own all intellectual property rights in the Customer Review or have obtained all necessary rights, licences, consents, and permissions to submit such Customer Review and to grant the licences set out under these Terms;",
+            "(b) you are solely responsible for all activities conducted through your Account on the Platform and for all Customer Review submitted, posted, or transmitted by you;",
+            "(c) the Customer Review does not and shall not violate any obligation, restriction, or responsibility imposed on you under any other agreement;",
+            "(d) the Customer Review does not and shall not infringe, violate, or misappropriate any intellectual property right, proprietary right, right of publicity, or right of privacy of any person or entity;",
+            "(e) the Customer Review does not and shall not contain viruses, malware, corrupted data, or any other harmful, disruptive, or destructive code or material;",
+            "(f) the Customer Review does not and shall not violate any applicable law or any third-party rights; and",
+            "(g) the Customer Review: (A) does not belong to any other person to which you do not have lawful rights; (B) does not undermine national security, public order, or any interest protected under applicable Indian law, does not threaten friendly relations with foreign states, public order, or cause incitement to the commission of any cognisable offence, prevent investigation of any offence, or insult another nation; (C) is not defamatory, grossly harmful, blasphemous, paedophilic, invasive of another's privacy, discriminatory on the basis of gender, racially or ethnically objectionable, disparaging, hateful, violent, obscene, pornographic, unlawful, harmful to children, or relating to or encouraging money laundering or gambling; and (D) is not otherwise offensive, objectionable, or likely to restrict or inhibit any person from using or enjoying the Services.",
+            "6.12. You agree not to use the Services except as expressly permitted under these Terms. Without limiting the foregoing, you shall not host, display, upload, modify, publish, transmit, store, update, or share any information that:",
+            "(a) infringes any intellectual property or proprietary rights, including copyrights, patents, trademarks, or trade secrets;",
+            "(b) belongs to another person and to which you do not have any lawful right;",
+            "(c) is obscene, pornographic, paedophilic, invasive of privacy (including bodily privacy), insulting or harassing on the basis of gender, racially or ethnically objectionable, or relates to or encourages money laundering or gambling, or promotes enmity between groups based on religion or caste with intent to incite violence;",
+            "(d) is harmful to a child;",
+            "(e) impersonates any person or entity;",
+            "(f) threatens the unity, integrity, defence, security, or sovereignty of India, friendly relations with foreign states, public order, or incites the commission of any cognisable offence, prevents investigation of any offence, or insults another nation;",
+            "(g) contains software viruses or any code, files, or programs designed to disrupt, damage, or limit the functionality of any computer resource; or",
+            "(h) is patently false or misleading and is published with the intent to deceive, harass, or cause financial gain or injury to any person, entity, or agency.",
+            "6.13. You shall not engage in any activity that interferes with, disrupts, or adversely affects the functioning of the Services. You shall not attempt to gain unauthorised access to any portion of the Services, the Platform, any related systems or networks, or any of the Company's servers, whether through hacking, password mining, or any other unlawful or illegitimate means.",
+            "6.14. You shall not, directly or indirectly, solicit, induce, influence, engage, approach, accept, or encourage the solicitation or approach of any Professional from whom you have availed Pro Services to terminate or cease their association with the Platform or to provide services similar to the Pro Services outside the Platform without booking such Pro Services through your Account. You acknowledge and agree that this restriction is reasonable, fair, and necessary to protect the privacy, security, and legitimate business interests of the Company and Professionals, and that any breach of this clause may result in suspension or termination of your access to the Services and Pro Services."
+          ]
+        },
+        {
+          "heading": "7. OUR INTELLECTUAL PROPERTY",
+          "paragraphs": [
+            "7.1. All rights, title and interest in and to the Services, including all intellectual property rights subsisting in or arising out of the Services, are owned by or validly licensed to the Company excluding any intellectual property rights in Pro Services or materials independently owned or provided by Professionals or third parties. Subject to your compliance with these Terms, the Company grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable licence to access and use the Services solely in accordance with these Terms and any written instructions issued by the Company from time to time. All rights not expressly granted under these Terms are expressly reserved by the Company and its licensors.",
+            "7.2. From time to time, the Company may request that you provide suggestions, comments, bug reports, or other feedback relating to the Services (\"Feedback\"). You agree that the Company shall have the unrestricted, perpetual, irrevocable, worldwide, transferable, sublicensable, and royalty-free right to use, reproduce, modify, adapt, publish, display, distribute, and otherwise exploit such Feedback for any purpose, without any obligation of attribution, compensation, or prior approval, and without any restriction arising from intellectual property or other proprietary rights.",
+            "7.3. Except as expressly provided under these Terms, nothing herein shall be construed as granting, by implication, estoppel, or otherwise, any right, title, or licence in or to any intellectual property rights of the Company or any third party including any Professionals."
+          ]
+        },
+        {
+          "heading": "8. CUSTOMER REVIEW",
+          "paragraphs": [
+            "8.1. The Platform may include interactive features or Services that allow users who have created an Account to post, upload, publish, display, transmit, submit, or otherwise make available comments, reviews, suggestions, feedback, ideas, or other content on or through the Platform (collectively, \"Customer Review\").",
+            "8.2. For the effective provision of the Services and for quality control purposes, the Company may request that you submit reviews relating to Professionals, and you agree and acknowledge that Professionals may submit reviews relating to you. You agree not to knowingly submit any false, inaccurate, misleading, or deceptive information in connection with any review. Feedback and reviews may be analyzed by the Company to monitor service standards and determine continued access to the Platform. If the Company determines, in its sole discretion, that you are not an appropriate User, the Company reserves the right to suspend or terminate your Account and remove your access to the Platform in accordance with these Terms and applicable law.",
+            "8.3. You grant the Company a non-exclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, and royalty-free license to the Customer Review for the purposes set out under these Terms submitted and the Company shall have the right to:",
+            "(a) use, reproduce, publish, display, store, host, transfer, process, communicate, distribute, make available, modify, adapt, translate, and create derivative works of such Customer Review as reasonably necessary for the operation, maintenance, and provision of the Services; and",
+            "(b) use such Customer Review for limited purposes, including advertising and promoting the Services, and for compliance with applicable laws or for submission as evidence before a court or other authority of competent jurisdiction.",
+            "8.4. To the extent allowed under applicable law, you waive any moral rights or similar rights you may have in relation to Customer Review submitted through the Platform.",
+            "8.5. The Company may, at any time and without prior notice, remove, disable access to, or otherwise restrict any Customer Review that the Company determines, in its sole discretion, violates these Terms, applicable laws, or the rights of any third party or upon receiving actual knowledge in the form of a court order or notification from an appropriate governmental authority, in accordance with applicable law."
+          ]
+        },
+        {
+          "heading": "9. CONSENT TO USE DATA",
+          "paragraphs": [
+            "9.1. You agree that we may, in accordance with our Privacy Policy, collect and use your personal data for the purposes set out therein. The Privacy Policy is available on the website and app and it explains the categories of personal data that we collect or otherwise process about you and the manner in which we process such data.",
+            "9.2. In addition to any consent you may provide pursuant to the Privacy Policy, you hereby consent to us sharing your personal data with our affiliates and third-party service providers strictly on a need-to-know basis and for purposes disclosed in the Privacy Policy, including for provision of the Services, payment processing, customer support, analytics, fraud prevention, and service improvement, in accordance with applicable law. We may also use information and data pertaining to your use of the Services in an aggregated or anonymised manner for analytics, trend identification, and statistical purposes.",
+            "9.3. Subject to applicable laws, we may be directed by law enforcement agencies or the government and related bodies to disclose data in relation to you in connection with criminal or civil proceedings. You understand and agree that in such instances we shall have the right to share such data with relevant agencies or bodies."
+          ]
+        },
+        {
+          "heading": "10. INDEMNITY",
+          "paragraphs": [
+            "10.1. You agree to indemnify, defend (at the Company's option), and hold harmless the Company, its parent companies, subsidiaries, affiliates, and each of their respective officers, directors, employees, agents, and representatives from and against any and all claims, demands, actions, suits, proceedings, losses, liabilities, damages, judgments, settlements, penalties, and expenses (including reasonable attorneys' fees and costs) arising out of or relating to:",
+            "(a) your access to or use of the Services or Pro Services;",
+            "(b) your violation or alleged violation of these Terms; or",
+            "(c) any access to or use of your Account or the Services or Pro Services by any third party, whether or not authorised by you."
+          ]
+        },
+        {
+          "heading": "11. LIMITATION OF LIABILITY",
+          "paragraphs": [
+            "11.1. IN NO EVENT SHALL THE COMPANY, ITS OFFICERS, DIRECTORS, AND EMPLOYEES, OR ITS CONTRACTORS, AGENTS, LICENSORS, PARTNERS, OR SUPPLIERS, BE LIABLE TO YOU FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION, LOST BUSINESS OPPORTUNITIES, LOST REVENUES, OR LOSS OF ANTICIPATED PROFITS OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER), EVEN IF THE COMPANY OR AN AUTHORISED REPRESENTATIVE HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ARISING OUT OF, OR RELATING TO (A) THESE TERMS, (B) THE SERVICES OR THE PRO SERVICES, (C) YOUR USE OR INABILITY TO USE THE SERVICES OR THE PRO SERVICES, OR (D) ANY OTHER INTERACTIONS WITH ANOTHER USER OF THE SERVICES EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.",
+            "11.2. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR LIABILITY SHALL BE LIMITED TO THE AMOUNT OF FEES WE RECEIVE IN RESPECT OF A PARTICULAR BOOKING MADE ON THE PLATFORM.",
+            "11.3. WITHOUT PREJUDICE TO CLAUSE 11.2 AND TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, IN NO EVENT SHALL THE TOTAL LIABILITY OF THE COMPANY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR THE SERVICES EXCEED THE LOWER OF (A) THE FEES PAID BY THE USER FOR SUCH BOOKING, OR (B) INR 6,000 (RUPEES SIX THOUSAND) IN THE AGGREGATE."
+          ]
+        },
+        {
+          "heading": "12. DISCLAIMERS AND WARRANTIES",
+          "paragraphs": [
+            "12.1. THE SERVICES ARE PROVIDED ON AN \"AS IS\" BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS.",
+            "12.2. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US SHALL CREATE ANY WARRANTY THAT IS NOT EXPRESSLY STATED IN THE TERMS.",
+            "12.3. YOU ACKNOWLEDGE THAT THE COMPANY OPERATES A TECHNOLOGY PLATFORM THAT FACILITATES CONNECTIONS BETWEEN CUSTOMERS AND PROFESSIONALS AND DOES NOT ITSELF PERFORM OR GUARANTEE ANY PRO SERVICES. WE ARE NOT LIABLE OR RESPONSIBLE FOR FULFILMENT OF ANY BOOKINGS, FOR THE PERFORMANCE OF THE PRO SERVICES BY ANY PROFESSIONAL, OR FOR ANY ACTS OR OMISSIONS OF THE PROFESSIONALS DURING THEIR PROVISION OF THE PRO SERVICES INCLUDING ANY DAMAGE THEY MAY CAUSE TO PROPERTY. BY BOOKING PRO SERVICES THROUGH THE PLATFORM, YOU ARE ENTERING INTO A CONTRACT WITH THE RELEVANT PROFESSIONAL FOR THE PROVISION OF THOSE SERVICES, AND WE ACCEPT NO RESPONSIBILITY OR LIABILITY, NOR DO WE MAKE ANY WARRANTY, REPRESENTATION, OR GUARANTEE IN RESPECT OF THE PROFESSIONAL'S PERFORMANCE UNDER THAT CONTRACT.",
+            "12.4. THE COMPANY DOES NOT GUARANTEE ANY SPECIFIC OUTCOME, RESULT, OR LEVEL OF SATISFACTION ARISING FROM THE PRO SERVICES. ANY EXPECTATIONS REGARDING QUALITY, TIMELINES, OR RESULTS ARE SOLELY BETWEEN THE CUSTOMER AND THE PROFESSIONAL PROVIDING THE PRO SERVICES.",
+            "12.5. YOU HEREBY ACCEPT FULL RESPONSIBILITY FOR ANY CONSEQUENCES THAT MAY ARISE FROM YOUR USE OF THE SERVICES AND PRO SERVICES, AND EXPRESSLY AGREE AND ACKNOWLEDGE THAT WE SHALL HAVE ABSOLUTELY NO LIABILITY IN THIS REGARD.",
+            "12.6. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE, OUR AFFILIATES, AND OUR RELATED PARTIES, EACH DISCLAIM ALL LIABILITY FOR ANY LOSS OR DAMAGE ARISING OUT OF, OR DUE TO: (I) YOUR USE OF, INABILITY TO USE, OR AVAILABILITY OR UNAVAILABILITY OF THE SERVICES OR THE PRO SERVICES; (II) THE OCCURRENCE OR EXISTENCE OF ANY DEFECT, INTERRUPTION, OR DELAYS, IN THE OPERATION OR TRANSMISSION OF INFORMATION TO, FROM, OR THROUGH THE SERVICES, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORISED ACCESS TO OUR RECORDS, PROGRAMMES, SERVICES, SERVERS, OR OTHER INFRASTRUCTURE RELATING TO THE SERVICES; (III) THE FAILURE OF THE SERVICES TO REMAIN OPERATIONAL FOR ANY PERIOD OF TIME; AND (IV) THE LOSS OF ANY CUSTOMER REVIEW AND ANY OTHER DATA IN CONNECTION WITH YOUR USE OF THE SERVICES.",
+            "12.7. NOTHING IN THESE TERMS WILL EXCLUDE OR LIMIT ANY WARRANTY IMPLIED BY LAW THAT IT WOULD BE UNLAWFUL TO EXCLUDE OR LIMIT.",
+            "12.8. YOU ACKNOWLEDGE THAT ANY DESCRIPTIONS, ESTIMATES, OR PROMOTIONAL MATERIALS RELATING TO THE SERVICES ARE INDICATIVE ONLY AND DO NOT CONSTITUTE BINDING REPRESENTATIONS OR GUARANTEES. THE COMPANY SHALL NOT BE RESPONSIBLE FOR ANY DAMAGE TO PROPERTY ARISING FROM OR DURING THE PERFORMANCE OF PRO SERVICES, EXCEPT TO THE EXTENT REQUIRED UNDER APPLICABLE LAW."
+          ]
+        },
+        {
+          "heading": "13. THIRD PARTY SERVICES",
+          "paragraphs": [
+            "13.1. The Platform may include or make available services, content, documents, information, or links that are owned, licensed, or provided by third parties (\"Third-Party Services\"). You acknowledge and agree that Third Party Services are provided solely by the relevant third-party and that the Company does not control, endorse, or assume responsibility for such Third-Party Services. Your access to and use of Third-Party Services is entirely at your own risk.",
+            "13.2. The Company makes no representations or warranties, whether express or implied, and expressly disclaims all liability arising from or relating to Third Party Services, including with respect to their availability, accuracy, completeness, legality, quality, or fitness for any purpose. Your use of any Third Party Services shall be governed solely by the terms and conditions and privacy policies of the applicable third parties. All intellectual property rights in and to Third Party Services remain the exclusive property of the respective third parties."
+          ]
+        },
+        {
+          "heading": "14. TERM AND TERMINATION",
+          "paragraphs": [
+            "14.1. These Terms shall remain in effect unless terminated in accordance with the terms hereunder.",
+            "14.2. We may restrict, deactivate, or terminate your access to, or use of, the Services, or any portion thereof, immediately and at any point at our sole discretion, (A) if you violate or breach any of the obligations, responsibilities, or covenants under these Terms, (B) you do not, or are likely not to qualify under applicable law, or the standards and policies of the Company or its affiliates, to access and use the Services, or (C) for any legitimate business, legal, or regulatory reason subject to applicable law and, where feasible, providing reasonable notice or an opportunity to remedy such breach.",
+            "14.3. You may terminate these Terms, at any time, for any reason by sending a notice to the Company at help@withpronto.com.",
+            "14.4. Upon termination of these Terms: (a) the Account will expire; (b) the Services will \"time-out\"; and (c) these Terms shall terminate, except for those clauses that are expressly, or by implication, intended to survive termination or expiry.",
+            "14.5. The Company may temporarily suspend access to the Services or Pro Services, in whole or in part, while it investigates any suspected breach of these Terms, customer complaints, safety concerns, or legal or regulatory issues. Such suspension shall not constitute termination and may be lifted at the Company's discretion.",
+            "14.6. Clauses relating to intellectual property, disclaimers, limitation of liability, indemnity, governing law, dispute resolution, and any other provisions which by their nature are intended to survive, shall survive termination or expiry of these Terms."
+          ]
+        },
+        {
+          "heading": "15. JURISDICTION, GOVERNING LAWS, AND DISPUTE RESOLUTION",
+          "paragraphs": [
+            "15.1. These Terms shall be governed by and construed and enforced in accordance with the laws of India. Subject to other provisions in this clause, courts in Mumbai, Maharashtra, India shall have exclusive jurisdiction over all issues arising out of these Terms or the use of the Services.",
+            "15.2. Any controversies, conflicts, disputes, or differences, arising out of these Terms shall be resolved by arbitration in Mumbai, Maharashtra in accordance with the Arbitration and Conciliation Act, 1996 for the time being in force, which is deemed to be incorporated by reference in this clause. The tribunal shall consist of 1 (One) arbitrator appointed by the Company. The language of the arbitration shall be English. The parties to the arbitration shall keep the arbitration confidential, and not disclose to any person, other than on a need-to-know basis, or to legal advisors, unless required to do so by law. The decision of the arbitrator shall be final and binding on all the parties thereto. Each party to the arbitration shall bear its own costs with respect to any dispute."
+          ]
+        },
+        {
+          "heading": "16. GRIEVANCE REDRESSAL",
+          "paragraphs": []
+        },
+        {
+          "heading": "16.1 Customer Care Channels",
+          "paragraphs": [
+            "(a) For any booking-related issue, you may first reach out to us via chat support on the app for real-time resolution.",
+            "(b) You may also write to us at help@withpronto.com and we will strive to resolve your grievance within the timelines prescribed under applicable laws. For a complaint raised via email, you will receive a unique ticket number to track its status."
+          ]
+        },
+        {
+          "heading": "16.2 Grievance Officer",
+          "paragraphs": [
+            "In case you do not receive a satisfactory response from the channels above, you can escalate the matter to our Grievance Officer by giving the reference of the ticket number.",
+            "Name: Rahul Hans",
+            "Email Address: helpdesk@withpronto.com",
+            "Contact Number: 9311028109",
+            "Time: Monday - Friday (9:00 am to 6:00 pm)",
+            "16.3. In compliance with The Information Technology Act, 2000 and the rules made thereunder, as well as The Consumer Protection Act 2019, and the rules made thereunder, the grievance redressal mechanism, including the contact details of the Grievance Officer are provided above and shall be updated from time to time in accordance with applicable law."
+          ]
+        },
+        {
+          "heading": "17. MISCELLANEOUS PROVISIONS",
+          "paragraphs": []
+        },
+        {
+          "heading": "17.1 Electronic Records",
+          "paragraphs": [
+            "Records generated, stored, or maintained by the Company's systems, including platform logs, transaction histories, communications, and timestamps, shall be deemed accurate and may be relied upon by the Company for all purposes, including dispute resolution, investigations, and legal proceedings."
+          ]
+        },
+        {
+          "heading": "17.2 Changes to Terms",
+          "paragraphs": [
+            "The Company may vary or amend or change or update these Terms, from time to time entirely at its own discretion. You shall be responsible for checking these Terms from time to time and ensuring continued compliance with these Terms. Your use of the Platform after any such amendment or change in the Terms shall be deemed as your express acceptance to such amended/changed terms and you also agree to be bound by such changed/amended Terms provided that such changes are not materially adverse to you without reasonable notice, where required under applicable law."
+          ]
+        },
+        {
+          "heading": "17.3 Modification to the Services",
+          "paragraphs": [
+            "The Company reserves the right, at any time and in its sole discretion, to add to, modify, suspend, or discontinue, whether temporarily or permanently, the Services or any part thereof, with or without notice subject to applicable law. To the fullest extent permitted by applicable law, the Company shall not be liable for any addition, modification, suspension, or discontinuation of the Services."
+          ]
+        },
+        {
+          "heading": "17.4 Relationship",
+          "paragraphs": [
+            "Nothing in these Terms shall be deemed to create any partnership, joint venture, or fiduciary relationship between the Company and any Customer or Professional."
+          ]
+        },
+        {
+          "heading": "17.5 Severability",
+          "paragraphs": [
+            "If any provision of these Terms is held by a court or other authority of competent jurisdiction to be invalid, unlawful, or unenforceable, such provision shall be severed to the minimum extent necessary, and the remaining provisions shall remain in full force and effect. Where any provision would be valid or enforceable if part of it were deleted, such provision shall apply with the necessary modification to make it lawful and enforceable."
+          ]
+        },
+        {
+          "heading": "17.6 Assignment",
+          "paragraphs": [
+            "You may not assign, transfer, license, or otherwise dispose of any of your rights, obligations, or covenants under these Terms, or your Account, without the prior written consent of the Company. The Company may freely assign or transfer these Terms, in whole or in part, to any affiliate, subsidiary, parent company, successor, or any third party in connection with any merger, acquisition, financing, restructuring, or transfer of business or assets, without requiring further consent from the Customer."
+          ]
+        },
+        {
+          "heading": "17.7 Notices",
+          "paragraphs": [
+            "All legal notices, requests, demands, or determinations addressed to the Company under these Terms shall be sent in writing to all-legal@withpronto.com, or to such other contact details as the Company may notify from time to time."
+          ]
+        },
+        {
+          "heading": "17.8 Third Party Rights",
+          "paragraphs": [
+            "Except as expressly provided in these Terms, no third party shall have any right to enforce or rely upon any provision of these Terms."
+          ]
+        },
+        {
+          "heading": "17.9 Waiver",
+          "paragraphs": [
+            "Any failure or delay by the Company in enforcing its rights under these Terms shall not operate as a waiver of such rights, nor shall any single or partial exercise of any right preclude further exercise of that or any other right."
+          ]
+        },
+        {
+          "heading": "17.10 Entire Agreement",
+          "paragraphs": [
+            "These Terms, the Privacy Policy and Additional Terms (as and when issued) constitute the entire agreement between you and the Company with respect to the Services and supersede all prior or contemporaneous communications, representations, or agreements, whether oral or written."
+          ]
+        },
+        {
+          "heading": "17.11 Force Majeure",
+          "paragraphs": [
+            "The Company shall not be liable for any failure or delay in the performance of its obligations under these Terms where such failure or delay results from events beyond its reasonable control, including, without limitation, acts of God, strikes or labour disputes, failure of utility services or telecommunications networks, war, terrorism, riot, civil commotion, pandemic or epidemic, malicious damage, or compliance with any applicable law, regulation, order, or direction of any governmental authority. Force Majeure events shall also include failures or delays caused by third-party service providers, Professionals, payment processors, logistics partners, or technology infrastructure providers, to the extent such failures are beyond the Company's reasonable control."
+          ]
+        }
+      ]
+    },
+    "delete-account": {
+      "title": "Delete Account",
+      "sections": [
+        {
+          "heading": "Delete Account",
+          "paragraphs": [
+            "Last updated: Recently",
+            "To delete your account, please submit your phone number associated with your HomeEase mobile app account below or email help@withpronto.com with your request for account deletion.",
+            "We will respond promptly. User data including name, phone number, and address will be deleted from our database.",
+            "Careers careers@withpronto.com"
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "We’re here to help.",
+      "sections": [
+        {
+          "heading": "We’re here to help.",
+          "paragraphs": [
+            "Need help? Our support team is available 7 a.m. to 10 p.m.",
+            "Customer Support",
+            "Or chat with us inside the HomeEase app.",
+            "HomeEase Professional Support",
+            "+91 80450 54259"
+          ]
+        }
+      ]
+    },
+    "press": {
+      "title": "Press",
+      "sections": [
+        {
+          "heading": "Press",
+          "paragraphs": [
+            "For media queries, reach out to us at:"
+          ]
+        },
+        {
+          "heading": "About HomeEase",
+          "paragraphs": []
+        },
+        {
+          "heading": "Founder Bio",
+          "paragraphs": []
+        },
+        {
+          "heading": "Founder Photos",
+          "paragraphs": []
+        },
+        {
+          "heading": "Logo Files",
+          "paragraphs": []
+        }
+      ]
+    },
+    "credits": {
+      "title": "Photo credits",
+      "sections": [
+        {
+          "heading": "Photo credits",
+          "paragraphs": [
+            "The city landmark photography across the HomeEase website is sourced from Wikimedia Commons contributors. We are grateful to every photographer below for making their work freely available under Creative Commons and free-culture licences.",
+            "Bangalore",
+            "Vidhana Soudha",
+            "Delhi",
+            "India Gate",
+            "Faridabad",
+            "Surajkund",
+            "Ghaziabad",
+            "Ghaziabad",
+            "Gurgaon",
+            "Gurgaon",
+            "Hyderabad",
+            "Charminar",
+            "Mumbai",
+            "Gateway of India",
+            "Navi Mumbai",
+            "Navi Mumbai",
+            "Noida",
+            "Noida",
+            "Pune",
+            "Shaniwar Wada",
+            "Thane",
+            "Thane",
+            "All photographs are used in accordance with their Creative Commons, GFDL, or Free Art License terms. See each photograph’s Wikimedia Commons page (linked above) for the full licence text and any conditions."
+          ]
+        }
+      ]
+    },
+    "blog": {
+      "title": "Notes from",
+      "sections": [
+        {
+          "heading": "Notes from",
+          "paragraphs": [
+            "Stories, updates, and ideas from the people building HomeEase. Stop by every now and then.",
+            "22 May 2026"
+          ]
+        },
+        {
+          "heading": "How HomeEase is embracing AI and taking its Professionals along",
+          "paragraphs": []
+        }
+      ]
+    }
+  },
+  "press": [],
+  "credits": [],
+  "blog": []
+}
